@@ -1,0 +1,8 @@
+{
+    "name": "custom",
+    "description": "hexa",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://codeberg.org/tsemre092/eng.ext/raw/branch/master/docs/providers.json"
+    ]
+}
